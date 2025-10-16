@@ -203,7 +203,7 @@ def export_excel_bytes(df: pd.DataFrame, sheet_name: str = "Datos") -> bytes:
 # ==============================
 
 st.set_page_config(page_title="Unificador CSV/XLSX (single-file) • robusto", layout="wide")
-st.title("Unificador CSV/XLSX robusto (single-file)")
+st.title("Unificador Archivos Daviplata Deposit")
 
 with st.sidebar:
     st.header("⚙️ Opciones CSV")
