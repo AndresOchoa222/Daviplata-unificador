@@ -1,0 +1,1 @@
+streamlit>=1.37\npandas>=2.2\nopenpyxl>=3.1\n
